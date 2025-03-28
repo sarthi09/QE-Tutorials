@@ -1,6 +1,11 @@
 # Quantum Espresso Tutorials
 Tutorials on Quantum Espresso for the Q-MS School 2021
 
+### Reference  
+This repository contains materials cloned from the original **Quantum-MultiScale-Template** repository.  
+🔗 [Original Source](https://github.com/Quantum-MultiScale-Template)  
+All credit for the original content goes to the respective authors.
+
 ## GaAs: A direct gap semiconductor
 0. Run your first SCF calculation for GaAs
 1. Test convergence of the total energy against the k-point mesh
